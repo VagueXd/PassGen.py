@@ -15,7 +15,7 @@ char = small + large + num + spec
 
 def passw(lenn):
     if lenn <= 4:
-        return 'Shut up nerd.'
+        return 'Choose a length more than 4!'
         pass
     else:
             
